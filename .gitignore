@@ -1,2 +1,10 @@
 .cproject
 .project
+*.obj
+*.lib
+vc60.*
+*.dsp
+*.pch
+*.plg
+
+
